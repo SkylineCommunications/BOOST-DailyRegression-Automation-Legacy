@@ -11,7 +11,7 @@ on:
 jobs:
 
   CI:
-    uses: SkylineCommunications/_ReusableWorkflows/.github/workflows/Automation Master Workflow.yml@prerelease
+    uses: SkylineCommunications/_ReusableWorkflows/.github/workflows/Automation Master Workflow.yml@RC
     with:
       referenceName: ${{ github.ref_name }}
       runNumber: ${{ github.run_number }}

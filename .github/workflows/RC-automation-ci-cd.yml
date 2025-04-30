@@ -1,4 +1,4 @@
-name: DataMiner CICD Automation
+name: RC DataMiner CICD Automation
 
 on:
   push:

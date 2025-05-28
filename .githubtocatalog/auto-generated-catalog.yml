@@ -29,7 +29,7 @@ type: Automation
 # If the ID is filled in but does not exist yet, a new Catalog item will be registered with this ID.
 # If the ID is filled in but does exist, properties of the item will be overwritten.
 #   Must be a valid GUID.
-id: f077a567-f1f3-4304-9c52-003333207772
+id: 05c0ee6b-b514-4705-b045-8e4e474de0a2
 # [Required]
 # The human-friendly name of the Catalog item.
 # Can be changed at any time.
